@@ -2,7 +2,7 @@
 
 My solution to the practice problem and online qualification round of the hashcode 2021.
 (Refer to main.py file in respective folders)<br> <br>
-This was my first time participating in Google Hashcode and it was fun. Also some how managed to get more than zero in the competition :P <br> <br>
+This was my first time participating in Google Hashcode and it was fun. Also some how my team managed to get more than zero in the competition :P <br> <br>
 The Traffic Scheduling logic of mine is neither  good nor is optimised completely but still it worked on the input files and gave my team a pretty good score.
 
 <hr>
