@@ -13,5 +13,5 @@ Score of my Pizza delivery solution [Practice Round]
 
 <hr>
 <img src="https://user-images.githubusercontent.com/62696039/109314334-34f35f80-786f-11eb-9e08-79f5181e1b54.png" height="300"/>
-Score of my Traffic Scheduling solution [Online Qualification Round]
+Score of my Traffic Scheduling solution [Online Qualification Round] (Top Score was 10,586,135)
 <hr>
